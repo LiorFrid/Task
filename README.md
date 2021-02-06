@@ -16,6 +16,7 @@ If there is more time I think to implement db to save the data instead calculate
 on rest-api maybe add express router.
 I would add more styling and more options for the graph visulaition.
 
+I chose to do taks number 3 (show the PNL) dditionally to tasks 1 and 2
 Instructionts for start the project:
 1. extract the files
 2. go to rest-api folder and then press npm install and then npm start
