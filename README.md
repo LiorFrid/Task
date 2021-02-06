@@ -2,7 +2,7 @@
 
 * Why did you pick your languages/technologies for the tasks?
 
-I picked for frontend React.js, beacuse it greate platform to implement web application and easy to use instead vanllia JS.
+I picked for frontend React.js, beacuse it greate platform to implement web application and easy to use instead vanillia JS.
 for rest-api I chose NodeJs, really good for small applictions and serve my needs.
 * Can you say anything about the behaviour or results of the two traders?
 
