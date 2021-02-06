@@ -12,7 +12,7 @@ They both doesnt have a lot of assets over the day but trader AS earned more mon
 They both saved their value but asset b is more volatile
 * Is there anything else you'd want to implement given more time?
 
-If there is more time I think to implement db to save the data instead calculate it when the server is turned on.
+If there is more time I think to implement db to save the data instead calculate it when the server is turned on and will not save the data on memory.
 on rest-api maybe add express router.
 I would add more styling and more options for the graph visulaition.
 
